@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "정윤성"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ys.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "HAFS student"
   location         : "대한민국, 서울"
   email            : john6492@hanmail.net
